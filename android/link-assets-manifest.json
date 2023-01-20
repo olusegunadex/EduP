@@ -1,0 +1,57 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Century-Gothic.ttf",
+      "sha1": "a2f9ca2ae529a6cc03cad88fefb0a0e45b7046f4"
+    },
+    {
+      "path": "assets/fonts/CenturyGothic.ttf",
+      "sha1": "8f77dcba946e3703813eee2e91d74b5ee3807b23"
+    },
+    {
+      "path": "assets/fonts/GOTHIC.TTF",
+      "sha1": "035669a8e8a5b486c3300eb9ea7a6672bb7ac331"
+    },
+    {
+      "path": "assets/fonts/gothicb.ttf",
+      "sha1": "194388a12999c4d643ab58aeabec0a49535ebeeb"
+    },
+    {
+      "path": "assets/fonts/GOTHICB0.TTF",
+      "sha1": "ed33e1307a491d78eadea9f5c62e021b94f339d1"
+    },
+    {
+      "path": "assets/fonts/SFUIDisplay-Black.otf",
+      "sha1": "95a211f130be0584bca8b96f8886fa26e54e4c33"
+    },
+    {
+      "path": "assets/fonts/SFUIDisplay-Bold.otf",
+      "sha1": "7e7bc546371839f6261b7aa3614a7ee270a12504"
+    },
+    {
+      "path": "assets/fonts/SFUIDisplay-Heavy.otf",
+      "sha1": "07db5cccbe455aa9d3741ce76e1254a714a4d0de"
+    },
+    {
+      "path": "assets/fonts/SFUIDisplay-Light.otf",
+      "sha1": "9bbfb53fa3a4004f6da5820bb2d3ea92135308bb"
+    },
+    {
+      "path": "assets/fonts/SFUIDisplay-Medium.otf",
+      "sha1": "cdedea75635f4ca94dc758b2c8022334b5bb1d6b"
+    },
+    {
+      "path": "assets/fonts/SFUIDisplay-Semibold.otf",
+      "sha1": "8e147d5a6d7902810cfae7d30b637c84f9e8315f"
+    },
+    {
+      "path": "assets/fonts/SFUIDisplay-Thin.otf",
+      "sha1": "1bac9bcddeb5bac4bbf3a86e2006351ead8e5b90"
+    },
+    {
+      "path": "assets/fonts/SFUIDisplay-Ultralight.otf",
+      "sha1": "554e2532435878343790ce55a0a877224548bee8"
+    }
+  ]
+}
